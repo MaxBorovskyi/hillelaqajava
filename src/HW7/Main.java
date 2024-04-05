@@ -1,10 +1,8 @@
 package HW7;
 
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
-        
+
         //creating circle object
         Circle circle = new Circle(10);
         System.out.println("Circle area: " + circle.area());
