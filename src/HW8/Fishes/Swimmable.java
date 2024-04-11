@@ -1,4 +1,4 @@
-package HW8;
+package HW8.Fishes;
 
 public interface Swimmable {
     void swim();

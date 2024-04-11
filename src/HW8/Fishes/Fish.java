@@ -1,6 +1,6 @@
-package HW8;
+package HW8.Fishes;
 
-abstract class Fish {
+abstract class Fish implements Swimmable {
     protected String name;
     protected String color;
 
@@ -9,7 +9,4 @@ abstract class Fish {
         this.name = name;
         this.color = color;
     }
-
-    //empty abstract method that will be implemented in subclasses
-    abstract void swim();
 }

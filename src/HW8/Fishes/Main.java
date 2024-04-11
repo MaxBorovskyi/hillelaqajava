@@ -1,4 +1,4 @@
-package HW8;
+package HW8.Fishes;
 
 public class Main {
     public static void main(String[] args) {

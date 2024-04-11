@@ -1,7 +1,7 @@
-package HW8;
+package HW8.Fishes;
 
-public class Carp extends Fish {
-    public Carp(String name, String color) {
+public class Catfish extends Fish{
+    public Catfish(String name, String color) {
         super(name, color);
     }
 

@@ -1,4 +1,4 @@
-package HW8;
+package HW8.Fishes;
 
 public class Pike extends Fish implements Swimmable {
     public Pike(String name, String color) {
